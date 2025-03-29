@@ -8,4 +8,3 @@ def is_valid_date(date_str):
         return True
     except ValueError:
         return False
-
